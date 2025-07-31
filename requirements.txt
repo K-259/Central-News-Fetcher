@@ -1,0 +1,7 @@
+python-telegram-bot
+python-dotenv
+aiohttp
+beautifulsoup4
+feedparser
+apscheduler
+tenacity
