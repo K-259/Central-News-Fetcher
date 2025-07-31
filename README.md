@@ -10,7 +10,7 @@ Build the Docker image:
 Run the Docker container:
 You need to pass your .env file to the container so it can access your configuration. 
 
-   ````docker run --env-file .env --name my-news-bot -d telegram-news-bot````
+  \\`docker run --env-file .env --name my-news-bot -d telegram-news-bot`\
 
 `--env-file .env`: Securely passes your environment variables.
 
